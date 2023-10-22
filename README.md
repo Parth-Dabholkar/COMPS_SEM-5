@@ -9,3 +9,5 @@ Welcome to the Semester 5 Computer Science Repository! This comprehensive reposi
 **Computer Networks**: Dive into the realm of computer networks with a collection of practical network configurations, sample code, and theoretical explanations. Explore concepts like network topologies, protocols, and security.
 
 **Professional Communication and Ethics - 2**: Enhance your professional communication skills and ethical awareness through this section. Access guides, templates, and reference materials for effective communication and ethical decision-making in the tech industry.
+
+** If you cannot preview the file, just download it. **
