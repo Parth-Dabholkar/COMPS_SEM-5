@@ -10,4 +10,7 @@ Welcome to the Semester 5 Computer Science Repository! This comprehensive reposi
 
 **Professional Communication and Ethics - 2**: Enhance your professional communication skills and ethical awareness through this section. Access guides, templates, and reference materials for effective communication and ethical decision-making in the tech industry.
 
+**Contributions**
+Contributions to this repository are welcome! If you have additional resources, improvements, or corrections to share, please feel free to submit pull requests. Your contributions will help make this repository a valuable resource for fellow students.
+
 **If you cannot preview the file, just download it.**
